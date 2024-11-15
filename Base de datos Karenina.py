@@ -7,3 +7,5 @@ Created on Thu Nov 14 18:17:23 2024
 """
 
 print("Base de datos Karenina")
+
+print("Generé los primeros cambios a Base de datos Karenina 1989")
